@@ -1,0 +1,231 @@
+[
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1529920108093,
+            "changeTime": 1529920108093,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1529920108093,
+            "changeTime": 1529920108093,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1529920801559,
+            "changeTime": 1529920801559,
+            "contentHash": "4f090b12d069ab492a48d0da355988187018b1a5"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1529920108093,
+            "changeTime": 1529920108093,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1529920463044,
+            "changeTime": 1529920463044,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/objects/Reise__c/Reise__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/objects/Reise__c/Reise__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2108,
+            "modifiedTime": 1529920801543,
+            "changeTime": 1529920801543,
+            "contentHash": "bcf3eddcb5ee7638104a8633009a3a918858bfe2"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/layouts/Reise__c-Reise Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/layouts/Reise__c-Reise Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2654,
+            "modifiedTime": 1529920801552,
+            "changeTime": 1529920801552,
+            "contentHash": "559282d979186f6eb3c3f07b16e85488229a9db6"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/tabs/Reise__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/tabs/Reise__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1529920801555,
+            "changeTime": 1529920801555,
+            "contentHash": "ddeae5eadbf9e422cad0188d1418fd25bc244096"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4756,
+            "modifiedTime": 1529920801560,
+            "changeTime": 1529920801560,
+            "contentHash": "8c55ba0a322c8c924d571b4c3b74bce3625a8471"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18166,
+            "modifiedTime": 1529920801586,
+            "changeTime": 1529920801586,
+            "contentHash": "c8194909757005eb149dc481a7141267130c7ef0"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4418,
+            "modifiedTime": 1529920801590,
+            "changeTime": 1529920801590,
+            "contentHash": "f429480f61f8cef277044a65edfbcf407f029031"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4418,
+            "modifiedTime": 1529920801598,
+            "changeTime": 1529920801598,
+            "contentHash": "f429480f61f8cef277044a65edfbcf407f029031"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/objects/Reise__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/objects/Reise__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1529920801543,
+            "changeTime": 1529920801543,
+            "contentHash": "49df71c34fcedbb9172b3f559c2c84e7fb744d82"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1529920801541,
+            "changeTime": 1529920801541,
+            "contentHash": "82db65991dc795127e1f05d72704506b2013a560"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1529920801551,
+            "changeTime": 1529920801551,
+            "contentHash": "e96c127227bffaa1a162ecadb1f38b8aa62fb50b"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1529920801554,
+            "changeTime": 1529920801554,
+            "contentHash": "3a91523376e5448cbfd75aed3eb962942f689249"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/DSR/DS-398693 Hoppecke/Worskpace/hoppecke-app-demo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1529920801598,
+            "changeTime": 1529920801598,
+            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb"
+        }
+    ]
+]
